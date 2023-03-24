@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.review-card{
+  max-width: 700px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+}
+.review-card .review-form .form-field{
+  margin: 10px 0;
+}
+
+.submit-button{
+  background-color: #304dac;
+  padding: 10px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 3px ​5px 4px 1px #304dac;
+  width: 100%;
+}
+
+.nav-menus{
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 100%;
+  padding: 10px;
+}
+.nav-item a{
+  text-decoration: none;
+  color: black;
+}
+
+.review-list{
+  max-width: 600px;
+  margin: auto;
+}
+.review-list-card{
+  padding: 10px;
+  margin: 10px 0;
+}
+.review-list-card img {
+  height: 50px;
+  border-radius: 50%;
+}
+
+.review-list-card .delete-icon {
+  height: 20px;
+  width: 20px;
+  right: 10px;
+  background: white;
+}

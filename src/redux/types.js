@@ -1,0 +1,8 @@
+// Tost types
+export const SHOW_TOAST_NOFITICATION = "SHOW_TOAST_NOFITICATION";
+export const REMOVE_TOAST_NOFITICATION = "REMOVE_TOAST_NOFITICATION";
+
+// review types
+export const ADD_REVIEW = 'ADD_REVIEW';
+export const EDIT_REVIEW = 'EDIT_REVIEW';
+export const DELETE_REVIEW = 'DELETE_REVIEW';
